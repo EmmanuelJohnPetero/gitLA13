@@ -33,3 +33,7 @@ def viewRec():
       print(read_file.read())
       read_file.close()
 
+def clearRec():
+   file = open(filename, 'w')
+   file.write("")
+   file.close()
