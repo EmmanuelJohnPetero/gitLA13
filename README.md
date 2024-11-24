@@ -2,6 +2,7 @@
 This is our first GitHub 
 activity.
 Members names:
-Name1 (Emmanuel John Petero)
-Name2
-Name3
+(Emmanuel John Petero)
+Nino Curameng
+Baby Jean Oring
+Andrei Bobila
